@@ -1768,7 +1768,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #66b6ff;
+  background: #370109;
 }
 .feed-link,
 .chat {
@@ -2791,4 +2791,21 @@ body {
 .links-of-author a::before,
 .links-of-author span.exturl::before {
   display: none;
+}
+.site-brand-wrapper {
+  height: 40px;
+}
+.main-inner {
+  margin-top: 70px;
+}
+@media (max-width: 767px) {
+  .main-inner {
+    margin-top: 20px;
+  }
+  .site-meta {
+    margin-left: 14px;
+  }
+  .post-block {
+    padding: 16px;
+  }
 }
