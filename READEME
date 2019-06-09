@@ -1,0 +1,13 @@
+您可执行下列的其中一个命令，让 Hexo 在生成完毕后自动部署网站并且同步到 git，两个命令的作用是相同的。
+
+$ hexo generate --deploy
+
+$ hexo deploy --generate
+
+简写
+
+上面两个命令可以简写为
+
+$ hexo g -d
+
+$ hexo d -g
