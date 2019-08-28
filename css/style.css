@@ -11,6 +11,11 @@
 .postheader ul {
   margin: 20px 0 -33px 238px !important;
 }
+.postheader {
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+}
 .py4 {
   padding-top: 0;
 }
