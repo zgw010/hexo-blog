@@ -1,13 +1,15 @@
 .footer-right {
   display: none;
 }
+#header ul {
+  margin-left: 109px !important;
+}
 .zgwp {
   width: 84px;
   display: inline-block;
 }
-#header #nav ul {
-  display: flex;
-  justify-content: center;
+.postheader ul {
+  margin: 20px 0 -33px 238px !important;
 }
 .postheader {
   position: sticky;
