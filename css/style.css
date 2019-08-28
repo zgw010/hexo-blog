@@ -667,6 +667,17 @@ body {
   filter: none;
   -webkit-filter: none;
 }
+@media screen and (max-width: 480px) {
+  #header ul {
+    margin: 10px 0 -73px 30px !important;
+  }
+  h1 {
+    text-align: center;
+  }
+  .meta {
+    float: right;
+  }
+}
 #header-post {
   position: fixed;
   top: 2rem;
