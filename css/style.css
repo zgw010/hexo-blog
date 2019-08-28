@@ -5,7 +5,7 @@
   margin-left: 109px !important;
 }
 .project-item a {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 #header #logo {
   filter: none;
