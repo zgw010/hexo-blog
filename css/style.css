@@ -2,18 +2,19 @@
   display: none;
 }
 #header ul {
-  margin-left: 109px;
+  margin-left: 109px !important;
 }
 .zgwp {
   width: 84px;
   display: inline-block;
 }
-.postheader ul {
+#postheader ul {
+  margin-left: 0 !important;
   margin-top: 20px;
   display: flex;
   justify-content: center;
 }
-.postheader {
+#postheader {
   position: sticky;
   top: 0;
   background-color: #fff;
