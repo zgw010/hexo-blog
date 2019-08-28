@@ -4,6 +4,10 @@
 #header ul {
   margin-left: 97px !important;
 }
+.project-item a {
+  display: inline-block;
+width
+}
 .inline {
   display: inline;
 }
