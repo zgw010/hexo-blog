@@ -690,6 +690,9 @@ body {
   .iocn {
     display: none;
   }
+  #about {
+    margin: 47px 0 -19px 0;
+  }
 }
 #header-post {
   position: fixed;
