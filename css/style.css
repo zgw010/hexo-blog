@@ -2,7 +2,7 @@
   display: none;
 }
 #header ul {
-  margin-left: 97px;
+  margin-left: 97px !important;
 }
 .inline {
   display: inline;
