@@ -1,9 +1,14 @@
 .footer-right {
   display: none;
 }
+#header ul {
+  margin-left: 109px !important;
+}
 .project-item a {
-  display: inline-block;
-width
+  text-decoration: none;
+}
+#header #logo {
+  filter: none;
 }
 .inline {
   display: inline;
