@@ -15,9 +15,13 @@
   position: sticky;
   top: 0;
   background-color: #fff;
+  z-index: 2;
 }
 .py4 {
   padding-top: 0;
+}
+body {
+  z-index: 1;
 }
 .inline {
   display: inline;
