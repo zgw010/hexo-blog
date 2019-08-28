@@ -9,7 +9,9 @@
   display: inline-block;
 }
 .postheader ul {
-  margin: 20px 0 -33px 238px !important;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
 }
 .postheader {
   position: sticky;
@@ -668,6 +670,10 @@ body {
   -webkit-filter: none;
 }
 @media screen and (max-width: 480px) {
+  #header #nav ul {
+    display: flex;
+    justify-content: center;
+  }
   h1 {
     text-align: center;
   }
