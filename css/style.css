@@ -668,6 +668,10 @@ body {
   -webkit-filter: none;
 }
 @media screen and (max-width: 480px) {
+  #header #nav ul {
+    display: flex;
+    justify-content: center;
+  }
   #header ul {
     margin: 10px 0 -73px 30px !important;
   }
@@ -678,10 +682,13 @@ body {
     float: right;
   }
   #logo {
-    display: none;
+    display: none !important;
   }
   .py4 {
     padding-top: 1rem;
+  }
+  .iocn {
+    display: none;
   }
 }
 #header-post {
