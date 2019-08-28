@@ -14,6 +14,7 @@
   justify-content: center;
 }
 .postheader {
+  margin-top: 10px;
   position: sticky;
   top: 0;
   background-color: #fff;
@@ -671,6 +672,7 @@ body {
 }
 @media screen and (max-width: 480px) {
   #header #nav ul {
+    margin-left: 0px !important;
     display: flex;
     justify-content: center;
   }
