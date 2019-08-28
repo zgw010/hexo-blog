@@ -673,6 +673,7 @@ body {
 @media screen and (max-width: 480px) {
   #header #nav ul {
     margin-left: 0px !important;
+    margin-top: 10px !important;
     display: flex;
     justify-content: center;
   }
@@ -692,7 +693,7 @@ body {
     display: none;
   }
   #about {
-    margin: 47px 0 -19px 0;
+    margin: -14px 0 -53px 0;
   }
 }
 #header-post {
