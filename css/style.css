@@ -8,6 +8,9 @@
   width: 84px;
   display: inline-block;
 }
+#postheader ul {
+  margin: 20px 0 -120px 238px !important;
+}
 .inline {
   display: inline;
 }
