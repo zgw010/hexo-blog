@@ -4,12 +4,6 @@
 #header ul {
   margin-left: 109px !important;
 }
-.project-item a {
-  text-decoration: none !important;
-}
-#header #logo {
-  filter: none;
-}
 .inline {
   display: inline;
 }
