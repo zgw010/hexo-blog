@@ -1,15 +1,13 @@
 .footer-right {
   display: none;
 }
-#header ul {
-  margin-left: 109px !important;
-}
 .zgwp {
   width: 84px;
   display: inline-block;
 }
-.postheader ul {
-  margin: 20px 0 -33px 238px !important;
+#header #nav ul {
+  display: flex;
+  justify-content: center;
 }
 .postheader {
   position: sticky;
@@ -668,13 +666,6 @@ body {
   -webkit-filter: none;
 }
 @media screen and (max-width: 480px) {
-  #header #nav ul {
-    display: flex;
-    justify-content: center;
-  }
-  #header ul {
-    margin: 10px 0 -73px 30px !important;
-  }
   h1 {
     text-align: center;
   }
